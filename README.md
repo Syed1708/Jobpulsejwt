@@ -7,9 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel Project JobPulse 
+## Laravel Project JobPulse (OSTAD)
 ## Project Video Link https://youtu.be/Fdkd7xp7ktA?si=5zbphHCtZAGcReBr
 ## loging as admin email: superadmin@example.com and password : password
+## sorry for late submission
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
